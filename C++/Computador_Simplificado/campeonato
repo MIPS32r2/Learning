@@ -1,0 +1,47 @@
+EC01 = Pegue um cartão e guarde o valor em EC06
+EC02 = Se o valor for igual a -1, vá para E09 
+EC03 = Some 1 a EC07
+EC04 = Se o valor de EC07 for igual a 31 avance para EC08
+EC05 = 
+EC06 = 1
+EC07 = 0
+EC08 = Divida o número
+EC09 = Imprima o valor de EC08
+EC10 = Pare
+
+
+Cartões
+
+*1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+-1
+
