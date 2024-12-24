@@ -11,13 +11,13 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
-
+      
     - name: Install LaTeX
       run: sudo apt-get install -y texlive-full
 
     - name: Find and Compile LaTeX File
       run: |
-        TEX_FILE=$(find . -maxdepth 1 -name "*.tex" | head -n 1)
+        TEX_FILE=$(find ./LaTex/ -maxdepth 1 -name "*.tex" | head -n 1)
         if [ -z "$TEX_FILE" ]; then
           echo "No .tex file found!"
           exit 1
