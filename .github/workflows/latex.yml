@@ -28,21 +28,3 @@ jobs:
         # Procurar arquivos .tex dentro dos diretórios alterados
         TEX_FILES=$(find $CHANGED_DIRS -type f -name "*.tex")
 
-        if [ -z "$TEX_FILES" ]; then
-          echo "No .tex files found in changed directories!"
-          exit 0
-        fi
-
-        # Compilar cada arquivo .tex encontrado
-        for TEX_FILE in $TEX_FILES; do
-          BASENAME=$(basename "$TEX_FILE" .tex)
-          pdflatex -interaction=nonstopmode -halt-on-error "$TEX_FILE"
-          mkdir -p output
-          mv "${BASENAME}.pdf" output/
-        done
-    - name: Upload PDFs
-      uses: actions/upload-artifact@v3
-      with:
-        name: PDF-Documents
-        path: output/
-
