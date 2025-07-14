@@ -1,0 +1,1 @@
+O comando tr assim como o 
