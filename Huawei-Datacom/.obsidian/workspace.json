@@ -1,24 +1,40 @@
 {
   "main": {
-    "id": "8c01452926028590",
+    "id": "653167f0d8606f7f",
     "type": "split",
     "children": [
       {
-        "id": "4ec812d1b9178efb",
+        "id": "68f8aa8fc8e9006f",
         "type": "tabs",
         "children": [
           {
-            "id": "5f6ebaa216e53a12",
+            "id": "411d846ea4ee439d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Busca/find.md",
+                "file": "Níveis de usuário VRP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "find"
+              "title": "Níveis de usuário VRP"
+            }
+          }
+        ]
+      },
+      {
+        "id": "25f9044c90535435",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0df03ce89f84e0a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -27,15 +43,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ab41e2a5eb178d46",
+    "id": "9d98bdaffdee7ee4",
     "type": "split",
     "children": [
       {
-        "id": "e081de18233d3d65",
+        "id": "73a86ab0a433c3be",
         "type": "tabs",
         "children": [
           {
-            "id": "13aa5a824f642516",
+            "id": "3426add3fcbceb53",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +64,7 @@
             }
           },
           {
-            "id": "11cb4747233f8584",
+            "id": "a04001a23292ce99",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +81,7 @@
             }
           },
           {
-            "id": "9dbf854133069565",
+            "id": "83182fa8560fe467",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +94,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "2adb8ffaa8771c6b",
+    "id": "d2a499c97c93c8f8",
     "type": "split",
     "children": [
       {
-        "id": "2030fd2e4104bb01",
+        "id": "410fbc4d56d01229",
         "type": "tabs",
         "children": [
           {
-            "id": "991a7f980c699a95",
+            "id": "f32d00a7a91a9845",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Níveis de usuário VRP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +120,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Níveis de usuário VRP"
             }
           },
           {
-            "id": "64e9595051a35ce7",
+            "id": "7404f8070311f67f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Níveis de usuário VRP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Níveis de usuário VRP"
             }
           },
           {
-            "id": "716109896e0027c2",
+            "id": "23226dc3a2c374de",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +153,18 @@
             }
           },
           {
-            "id": "0e359a556919f2bc",
+            "id": "66e43d94ecd5358d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "Níveis de usuário VRP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Níveis de usuário VRP"
             }
           }
         ]
@@ -168,28 +184,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f6ebaa216e53a12",
+  "active": "411d846ea4ee439d",
   "lastOpenFiles": [
-    "Busca/locate.md",
-    "Busca/find.md",
-    "Busca/whereis.md",
-    "Gerenciamento de memória/df.md",
-    "Busca",
-    "Gerenciamento de memória/du.md",
-    "Substituição/tr.md",
-    "Substituição/sed.md",
-    "Substituição/Pasted image 20250713071442.png",
-    "Redirecionamentos e Pipes/Entradas e Saídas.md",
-    "Gerenciamento de memória/Untitled.md",
-    "Redirecionamentos e Pipes",
-    "Gerenciamento de memória/Pasted image 20250714171227.png",
-    "Gerenciamento de memória/Pasted image 20250714171551.png",
-    "Gerenciamento de memória/Pasted image 20250714182213.png",
-    "Gerenciamento de memória/Pasted image 20250714182221.png",
-    "Gerenciamento de memória/Pasted image 20250714182352.png",
-    "Gerenciamento de memória/Pasted image 20250714184017.png",
-    "Gerenciamento de memória/Pasted image 20250714184301.png",
-    "Gerenciamento de memória/Pasted image 20250714184510.png",
-    "Gerenciamento de memória/Pasted image 20250714182156.png"
+    "Níveis de usuário VRP.md",
+    "Módulo 03 - Nocões básicas de VRP"
   ]
 }
