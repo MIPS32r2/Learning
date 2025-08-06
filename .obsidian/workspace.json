@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "8c01452926028590",
+    "id": "136a2e71fc584967",
     "type": "split",
     "children": [
       {
-        "id": "4ec812d1b9178efb",
+        "id": "c7ee6a6f1c1e75a3",
         "type": "tabs",
         "children": [
           {
-            "id": "5f6ebaa216e53a12",
+            "id": "bd80aa1ef548deb6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Busca/whereis.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "whereis"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ab41e2a5eb178d46",
+    "id": "dce9bb1c021b0f96",
     "type": "split",
     "children": [
       {
-        "id": "e081de18233d3d65",
+        "id": "aca5d8fcef424485",
         "type": "tabs",
         "children": [
           {
-            "id": "13aa5a824f642516",
+            "id": "b9bdef4b554319da",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "11cb4747233f8584",
+            "id": "7f2d03b1dc20455c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "9dbf854133069565",
+            "id": "bbc82c9df53b3f7d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +74,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "2adb8ffaa8771c6b",
+    "id": "fa4662590d6d4b52",
     "type": "split",
     "children": [
       {
-        "id": "2030fd2e4104bb01",
+        "id": "71245506aa1eb4c3",
         "type": "tabs",
         "children": [
           {
-            "id": "991a7f980c699a95",
+            "id": "996620bbfc8f3464",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Linux/Busca/whereis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +100,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for whereis"
             }
           },
           {
-            "id": "64e9595051a35ce7",
+            "id": "5e4c85dd015d5525",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Linux/Busca/whereis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from whereis"
             }
           },
           {
-            "id": "716109896e0027c2",
+            "id": "4618ea87111247ea",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +133,18 @@
             }
           },
           {
-            "id": "0e359a556919f2bc",
+            "id": "3a9d0c62b969b5cd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "Linux/Busca/whereis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of whereis"
             }
           }
         ]
@@ -168,28 +164,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f6ebaa216e53a12",
+  "active": "bd80aa1ef548deb6",
   "lastOpenFiles": [
-    "Busca/locate.md",
-    "Busca/find.md",
-    "Busca/whereis.md",
-    "Gerenciamento de memória/df.md",
-    "Busca",
-    "Gerenciamento de memória/du.md",
-    "Substituição/tr.md",
-    "Substituição/sed.md",
-    "Substituição/Pasted image 20250713071442.png",
-    "Redirecionamentos e Pipes/Entradas e Saídas.md",
-    "Gerenciamento de memória/Untitled.md",
-    "Redirecionamentos e Pipes",
-    "Gerenciamento de memória/Pasted image 20250714171227.png",
-    "Gerenciamento de memória/Pasted image 20250714171551.png",
-    "Gerenciamento de memória/Pasted image 20250714182213.png",
-    "Gerenciamento de memória/Pasted image 20250714182221.png",
-    "Gerenciamento de memória/Pasted image 20250714182352.png",
-    "Gerenciamento de memória/Pasted image 20250714184017.png",
-    "Gerenciamento de memória/Pasted image 20250714184301.png",
-    "Gerenciamento de memória/Pasted image 20250714184510.png",
-    "Gerenciamento de memória/Pasted image 20250714182156.png"
+    "Linux/Busca/whereis.md",
+    "Linux/Busca/locate.md",
+    "Linux/Busca/find.md"
   ]
 }
