@@ -1,0 +1,1 @@
+KDC - Key Distribution Center = Centro de D

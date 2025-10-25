@@ -11,10 +11,14 @@
             "id": "bd80aa1ef548deb6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Linguagens/SQL/SQLite/Adicionando uma nova coluna e atualizando dados.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Adicionando uma nova coluna e atualizando dados"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 296.5
   },
   "right": {
     "id": "fa4662590d6d4b52",
@@ -156,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -164,10 +169,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd80aa1ef548deb6",
+  "active": "b9bdef4b554319da",
   "lastOpenFiles": [
-    "Linux/Busca/whereis.md",
-    "Linux/Busca/locate.md",
-    "Linux/Busca/find.md"
+    "Sistemas Operacionais",
+    "Linguagens/C/Pirates_C/operadores",
+    "Linguagens/C/Pirates_C/labs",
+    "Linguagens/C/Pirates_C/CursoC-PirateShip/README.md",
+    "Linguagens/C/Pirates_C/CursoC-PirateShip/LICENSE",
+    "Linguagens/C/Pirates_C/CursoC-PirateShip/Aula02/Ex05.c",
+    "Linguagens/C/Pirates_C/CursoC-PirateShip/Aula02/Ex04.c",
+    "Linguagens/C/Pirates_C/CursoC-PirateShip/Aula02/Ex03.c",
+    "Linguagens/C/Pirates_C/CursoC-PirateShip/Aula02/Ex02.c",
+    "Linguagens/C/Pirates_C/CursoC-PirateShip/Aula02/Ex01.c",
+    "Linguagens/C/Pirates_C/CursoC-PirateShip/Aula02",
+    "Linguagens/C/Pirates_C/CursoC-PirateShip/Aula01/Exemplos/exemplo11.c",
+    "Linguagens/C/Pirates_C/CursoC-PirateShip/Aula01/Introdução.md",
+    "Hacking/Técnicas/SQL Injection/Obtendo versão do SQL.md",
+    "Hacking/Técnicas/SQL Injection/UNION Attack.md",
+    "Pasted image 20251019215729.png",
+    "Pasted image 20251019215532.png",
+    "Pasted image 20251019215319.png",
+    "Pasted image 20251019214140.png",
+    "Linguagens/SQL/SQLite/Adicionando uma nova coluna e atualizando dados.md",
+    "Hacking/Técnicas/XSS.md",
+    "Hacking/Técnicas/SQL Injection.md",
+    "Sistemas Operacionais/Linux/Gerenciamento de memória/df.md",
+    "Linux/Expressões Regulares.md",
+    "Untitled.md",
+    "Sistemas Operacionais/Windows/Active Directory/NTDS.md",
+    "Sistemas Operacionais/Windows/Windows Server/Configurações Iniciais.md",
+    "Redes/Protocolos/Kerberos.md",
+    "Sistemas Operacionais/Linux/Gerenciamento de memória/du.md",
+    "Huawei-Datacom/Níveis de usuário VRP.md",
+    "Sistemas Operacionais/Linux/Busca/whereis.md",
+    "Sistemas Operacionais/Linux/Busca/locate.md",
+    "Sistemas Operacionais/Linux/Busca/find.md",
+    "Redes/Three-Way Handshake.md",
+    "Sistemas Operacionais/Linux/Substituição/sed.md",
+    "Sistemas Operacionais/Linux/Web/curl.md",
+    "Sistemas Operacionais/Linux/Redirecionamentos e Pipes/Entradas e Saídas.md"
   ]
 }
