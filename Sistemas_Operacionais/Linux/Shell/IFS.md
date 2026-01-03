@@ -1,0 +1,1 @@
+o *Internal Field Separator* é uma variável que define quais serão os caracteres usados como separadores de texto.

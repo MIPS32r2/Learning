@@ -1,0 +1,3 @@
+-d = descompacta um diretório que foi compactado
+-r = utiliza a forma recursiva
+-u = verifica se existe alguma alteração

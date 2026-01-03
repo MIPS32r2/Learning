@@ -1,0 +1,1 @@
+enquanto o estado de término for sucesso, ele vai executar o bloco de comandos, se terminar com erro ele para.

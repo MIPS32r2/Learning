@@ -1,0 +1,1 @@
+e = extrai tudo do mesmo diretório

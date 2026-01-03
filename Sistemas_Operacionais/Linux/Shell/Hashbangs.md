@@ -1,0 +1,1 @@
+São caracteres especiais utilizados para definir 

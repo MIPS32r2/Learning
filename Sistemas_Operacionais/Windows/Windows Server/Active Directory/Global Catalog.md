@@ -1,0 +1,1 @@
+O Global Catalog é um índice que contém várias informações do Active Diretory, ela tem parte fundamental no funcionamento,

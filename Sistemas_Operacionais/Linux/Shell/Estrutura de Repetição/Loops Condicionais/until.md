@@ -1,0 +1,1 @@
+diferente do [[while]], o until não verifica se o estado de término até dê sucesso.

@@ -15,3 +15,10 @@ com as tabelas criadas, vamos adicionar valores dentro das colunas.
 com os valores já definidos dentro de cada coluna, vamos utilizar o operador UNION para juntar os valores de duas consultas em uma só.
 
 ![[Pasted image 20251019215729.png]]
+
+agora que já sabemos como o UNION Atacck funciona, vamos a metodologia de como seguir com os testes da vulnerabilidade.
+
+1 - Identificar um possível injeção de SQL
+2 - Determinar o número de colunas na query
+3 - Identificar os tipos de dados nas colunas
+4 - Identificar qual tipo de Banco de dados estamos lidando (Postgre, MySQL, Oracle, Microsoft)

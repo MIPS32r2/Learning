@@ -1,0 +1,1 @@
+-D = mostra todos os dispositivos de rede

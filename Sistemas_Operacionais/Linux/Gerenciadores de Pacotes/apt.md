@@ -1,0 +1,1 @@
+o apt é um dos principais gerenciadores de pacotes, usado em distribuições baseadas no debian
