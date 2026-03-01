@@ -1,0 +1,91 @@
+\documentclass[a4paper, 12pt]{article}
+\usepackage[top=2cm, bottom=2cm, left=2.5cm, right=2.5cm]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{listings}
+\usepackage{color}
+
+\title{Utilização do laço de Repetição While}
+\author{Jacaré}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Introdução}
+
+O While é usado como estrutura de repetição, enquanto verdadeiro executa uma intrução ou uma série de instruções.
+dentro do código podemos ter um laço onde somamos uma varivável que contém valor nulo e podemos adicionar com base na estrutura do while
+
+\section{Utilizações}
+
+\begin{enumerate}
+  \item Pode-se fazer uma contagem ao contrário.
+\begin{lstlisting}[language=C++, caption={Contagem ao contrário}, basicstyle=\ttfamily\footnotesize, frame=single]
+#include <iostream>
+using namespace std;
+
+int main(){
+
+  int cont;
+
+  cont=20
+  while(cont>0){
+    cout << "Jacarino - " << cont << "\n";
+    //n++;
+    cont--;
+  }
+
+  cout << "\nRotina finalizada\n";
+
+  return 0;
+}
+\end{lstlisting}
+
+No exemplo acima podemos ver que a variável \textbf{const} recebe o valor 20, dentro do while vemos que a condição da estrutura é que o valor da variável seja menor do que 0, tornando a condição falsa inicialmente.
+
+Mas aí vem a pergunta, se a condição é falsa, o programa não fica em loop infinito?
+E a resposta é Não! observando o código uma linha em específico é responsável pela encerramento do programa.
+
+
+\begin{lstlisting}[language=C++, basicstyle=\ttfamily\footnotesize, frame=single]
+cont--;
+\end{lstlisting}
+
+Acontece que o \textbf{"--"} tem a propriedade de incrementar um número a variável, diferente de quando usamos apenas um traço, assim subtraindo 1 toda vez que o while é executado.
+
+\begin{lstlisting}[language=C++, caption={Incrementar ou decrementar direto no corpo}, basicstyle=\ttfamily\footnotesize, frame=single]
+cont=20;
+while(cont++>0){
+cout << "Jacarino -"  << cont << "\n";
+//n++;
+}
+\end{lstlisting}
+
+
+\end{enumerate}
+
+\section{Pontos de Atenção}
+
+\begin{enumerate}
+  \item A condição de parada deve ser sempre verificada
+\end{enumerate}
+
+\begin{lstlisting}[language=C++, caption={Utiizando o Break para finalizar o programa}, basicstyle=\ttfamily\footnotesize, frame=single]
+#include <iostream>
+using namespace std;
+
+int main(){
+  cont=20
+  while(cont>0){
+    cout << "Jacarino - " << cont << "\n";
+      //n++;
+      //cont--;
+    if(count == 10){
+      break;
+    } 
+  }
+return 0;
+}
+\end{lstlisting}
+\end{document}

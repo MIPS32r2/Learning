@@ -1,0 +1,1 @@
+Diferentemente da [[Horizontal Privilege Escalation]], esse tipo de vuln permite obter um nível de privilégio maior do que o atual.

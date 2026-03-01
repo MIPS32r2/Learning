@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "136a2e71fc584967",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "a7056246f1649c0f",
+        "id": "71a19b2a5315ff43",
         "type": "tabs",
         "children": [
           {
-            "id": "7a75ef509a85f9c5",
+            "id": "02162b89383d0545",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Hacking/Vulnerabilidades/Access Control/Horizontal Privilege Escalation/Horizontal para Vertical.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Horizontal para Vertical"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 333.5004348754883
   },
   "right": {
     "id": "fa4662590d6d4b52",
@@ -165,53 +169,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9bdef4b554319da",
+  "active": "02162b89383d0545",
   "lastOpenFiles": [
-    "Sistemas_Operacionais/Linux/Shell/Tipos de Comandos/Comandos Compostos/Expressões.md",
-    "Sistemas_Operacionais/Linux/Shell/Tipos de Comandos/Comandos Compostos/Estruturas.md",
-    "Sistemas_Operacionais/Linux/Shell/Tipos de Comandos/Comandos Compostos/Agrupamentos.md",
-    "Sistemas_Operacionais/Linux/Shell/Estrutura de Repetição/Loops Condicionais/while.md",
-    "Sistemas_Operacionais/Linux/Shell/Estrutura de Repetição/Loops Condicionais/until.md",
-    "Sistemas_Operacionais/Windows/Windows Server/Active Directory/SYSVOL.md",
-    "Sistemas_Operacionais/Windows/Windows Server/Active Directory/Objetos.md",
-    "Sistemas_Operacionais/Windows/Windows Server/Active Directory/NTDS.md",
-    "Sistemas_Operacionais/Windows/Windows Server/Active Directory/Global Catalog.md",
-    "Sistemas_Operacionais/Linux/Shell/Tipos de Sessões/Sessões não interativas.md",
-    "Sistemas_Operacionais/Linux/Shell/Tipos de Sessões/Sessões Interativas.md",
-    "Sistemas_Operacionais/Linux/Shell/Redirecionamentos e Pipes/Operadores de Leitura.md",
+    "images/Pasted image 20250714173114.png",
+    "images/Pasted image 20250714182221.png",
+    "images/Pasted image 20250714174906.png",
+    "images/Pasted image 20250714182213.png",
+    "images/Pasted image 20250714184301.png",
+    "images/Pasted image 20250714184510.png",
+    "images/Pasted image 20250714184017.png",
+    "images/Pasted image 20250714182156.png",
+    "images/Pasted image 20250714171227.png",
+    "images/Pasted image 20250714171551.png",
+    "images/Pasted image 20250714182352.png",
+    "Hacking/Vulnerabilidades/Access Control/Horizontal Privilege Escalation/Insecure Direct Object Reference (IDOR).md",
     "Sistemas_Operacionais/Linux/Shell/Redirecionamentos e Pipes/Operadores de Escrita.md",
     "Sistemas_Operacionais/Linux/Shell/Redirecionamentos e Pipes/Entradas e Saídas.md",
-    "Sistemas_Operacionais/Linux/Shell/Tipos de Comandos/Comandos Simples",
-    "Sistemas_Operacionais/Linux/Shell/Tipos de Comandos/Comandos Compostos",
+    "Sistemas_Operacionais/Linux/Shell/Carga (source).md",
+    "Sistemas_Operacionais/Linux/Shell/Etapas de Processamento.md",
+    "Sistemas_Operacionais/Linux/Shell/Componentes.md",
+    "Sistemas_Operacionais/Linux/Shell/Testes.md",
+    "Sistemas_Operacionais/Linux/Shell/Parâmetros posicionais.md",
+    "Sistemas_Operacionais/Linux/Shell/Parâmetros Especiais.md",
+    "Sistemas_Operacionais/Linux/Shell/Operadores de Controle.md",
+    "Sistemas_Operacionais/Linux/Shell/Metacaracteres.md",
+    "Sistemas_Operacionais/Linux/Shell/Lógica de Expansão.md",
+    "Sistemas_Operacionais/Linux/Shell/Operador de Pipe.md",
+    "Sistemas_Operacionais/Linux/Shell/IFS.md",
+    "Sistemas_Operacionais/Linux/Shell/Hashbangs.md",
+    "Sistemas_Operacionais/Linux/Shell/Tipos de Sessões/Sessões não interativas.md",
+    "Sistemas_Operacionais/Linux/Shell/Tipos de Sessões/Sessões Interativas.md",
+    "Sistemas_Operacionais/Linux/Shell/Tipos de Comandos/Comandos Compostos/Estruturas.md",
+    "Sistemas_Operacionais/Linux/Shell/Tipos de Comandos/Comandos Compostos/Expressões.md",
+    "Sistemas_Operacionais/Linux/Shell/Tipos de Comandos/Comandos Compostos/Agrupamentos.md",
+    "Sistemas_Operacionais/Linux/Shell/Redirecionamentos e Pipes/Operadores de Leitura.md",
+    "Sistemas_Operacionais/Linux/Shell/Expressões Regulares/Quantificadores.md",
+    "Sistemas_Operacionais/Linux/Shell/Expressões Regulares/Âncoras.md",
     "Sistemas_Operacionais/Linux/Shell/Estruturas de decisão/then.md",
     "Sistemas_Operacionais/Linux/Shell/Estruturas de decisão/if.md",
-    "Sistemas_Operacionais/Linux/Shell/Estruturas de decisão/case.md",
-    "Sistemas_Operacionais/Linux/Shell/Estrutura de Repetição/select.md",
-    "Sistemas_Operacionais/Linux/Shell/Estrutura de Repetição/for.md",
-    "Sistemas_Operacionais/Linux/Shell/Estrutura de Repetição/Loops Condicionais",
-    "Sistemas_Operacionais/Windows/Windows Server/Configurações Iniciais.md",
-    "Sistemas_Operacionais/Windows/Windows Server/Active Directory",
-    "Sistemas_Operacionais/Linux/Gerenciamento de memória/du.md",
-    "Sistemas_Operacionais/Linux/Gerenciamento de memória/df.md",
-    "Sistemas_Operacionais/Linux/Gerenciamento de memória/Pasted image 20250714184510.png",
-    "Sistemas_Operacionais/Linux/Gerenciamento de memória/Pasted image 20250714184301.png",
-    "Sistemas_Operacionais/Linux/Gerenciamento de memória/Pasted image 20250714184017.png",
-    "Sistemas_Operacionais/Linux/Gerenciamento de memória/Pasted image 20250714182352.png",
-    "Sistemas_Operacionais/Linux/Gerenciamento de memória/Pasted image 20250714182213.png",
-    "Sistemas_Operacionais/Linux/Gerenciamento de memória/Pasted image 20250714182221.png",
-    "Sistemas_Operacionais/Linux/Gerenciamento de memória/Pasted image 20250714182156.png",
-    "Sistemas_Operacionais/Linux/Gerenciamento de memória/Pasted image 20250714174906.png",
-    "Sistemas_Operacionais/Linux/Gerenciamento de memória/Pasted image 20250714173114.png",
-    "Sistemas_Operacionais/Linux/Gerenciamento de memória/Pasted image 20250714171551.png",
-    "Sistemas_Operacionais/Linux/Web/curl.md",
-    "Sistemas_Operacionais/Linux/Shell/Variáveis.md",
-    "Sistemas_Operacionais/Linux/Shell/Tipos de Sessões",
-    "Sistemas_Operacionais/Linux/Shell/Tipos de Comandos",
-    "Sistemas_Operacionais/Linux/Shell/Testes.md",
-    "Sistemas_Operacionais/Linux/Shell/Redirecionamentos e Pipes",
-    "Sistemas_Operacionais/Linux/Shell/Parâmetros posicionais.md",
-    "Sistemas_Operacionais/Linux/Shell/Estruturas de decisão",
-    "Sistemas_Operacionais/Linux/Shell/Estrutura de Repetição",
-    "Sistemas_Operacionais/Windows/Windows Server"
+    "Hacking/Vulnerabilidades/Access Control/Horizontal Privilege Escalation",
+    "images_2",
+    "images_1",
+    "Hacking/Vulnerabilidades/Access Control/Vertical Privilege Escalation",
+    "Hacking/Vulnerabilidades/Access Control",
+    "Hacking/Vulnerabilidades",
+    "Hacking/Web/Portscan",
+    "Sistemas_Operacionais/Linux/Shell/Expressões Regulares",
+    "Hacking/Web/Subdomain Discovery",
+    "Programação"
   ]
 }

@@ -1,0 +1,1 @@
+Esse tipo de vuln acontece quando você se mantém no mesmo nível de permissão

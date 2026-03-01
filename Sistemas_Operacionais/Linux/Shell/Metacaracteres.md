@@ -1,3 +1,5 @@
+Um Metacaracter é um caracter que representa mais do que seu valor original
+
 em alguns casos quando precisamos representar um valor especial no shell, fazemos a expansão de um parâmetro no script ou inline.
 
 mas nem sempre a mesma forma será interpretada da mesma maneira pelo shell
